@@ -1,6 +1,6 @@
 # Strategy1_Crude-Turtle
 Coded this strategy on 7 months ago on TradeTron as a perosnal project.
-This strategy is designed with Crudeoil ATM straddles. This is intraday option selling strategy which sells total 2 legs. According to the market movement, it takes fresh straddles in every 100 points movement. Strategy will not take trades on the day of expiry of options and futures and the day between.
+This strategy is designed with Crudeoil ATM straddles. This is intraday option selling strategy which sells total 2 legs. According to the market movement, it takes exits and take fresh straddles in every 100 points movement. Strategy will not take trades on the day of expiry of options and futures and the day between.
 
 Frequently Asked Questions
 
